@@ -1,5 +1,5 @@
 # Basic-Spring-Boot-Server
-A basic spring boot server built with Java. It utilizes H2 SQL, JPA and OpenAPI to provide and document a simple server that can create , retrieve and delete users and posts. Featuring a one-to-many relationship between users and posts. Contains swagger documentation, route validation, custom exceptions handling and more
+A basic spring boot server built upon Java and Maven. It's a simple take at a social media platform. It utilizes H2 SQL, JPA, OpenAPI, and more to provide and document a simple server that can perform CRUD operations on users and posts. Featuring a one-to-many relationship between users and posts. Contains swagger documentation, route validation, custom exceptions handling and more
 
 ## What does it do?
 With this simple server you can do the following
