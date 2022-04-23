@@ -13,3 +13,10 @@ With this simple server you can do the following
 
 ## Installation tips
 Getting it up and running is each. Simply run the main java file and then navigate to http://localhost:8080/h2-console where you would find a well documented description of each route! Also comes with custom exception handling and more!
+
+## Video Description
+
+
+https://user-images.githubusercontent.com/74827204/164879059-24653db0-2aaf-4d75-86b4-54f0d4851220.mov
+
+
